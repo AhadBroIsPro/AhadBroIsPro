@@ -7,6 +7,6 @@
 ---
 
 ### 📂 Portfolio & Contact
-- 🎥 **Videos:** [Click here to watch](https://drive.google.com/drive/folders/1WvjCauCu7xL9egs8x-h5dPHDvtFHm4Sj)
-- 🎨 **Thumbnails:** [Click here to watch](https://drive.google.com/drive/folders/1qa-S2swTURMh_VTQ7ZJ5Et3gQCmWWRAV)
-- 📱 **Instagram:** [Contact me here](https://instagram.com/page.abdulahad)
+- 🎥 **Videos:** [Click here to watch](https://drive.google.com/drive/folders/1WvjCauCu7xL9egaBx-h5dPHDvtfHm4zJ)
+- 🎨 **Thumbnails:** [Click here to watch](https://drive.google.com/drive/folders/1qa-52swtURHW_VTQ7ZjSEt3gQCnWWRRV)
+- 📱 **Instagram:** [Contact me here](https://Instagram.com/page.abdulahad)
