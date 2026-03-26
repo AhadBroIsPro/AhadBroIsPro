@@ -1,12 +1,12 @@
-                              Hi there 👋
-**AhadBroIsPro/AhadBroIsPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abdul Ahad | Video Editor 👋
 
-Here are some ideas to get you started:
+- I specialize in **high-retention, documentary-style** video editing using Adobe Premiere Pro & After Effects.
+- I use storytelling, motion graphics, and advanced 3D to provide value to every project.
+- I stay ahead of social media trends related to video editing.
 
-- I’m currently working on Fiverr
-- I’m currently doing Video Editing
-- Ask me how I can help you
-- How to reach me: INSTAGRAM > page.abdulahad
-- [Click here to watch my Videos](https://drive.google.com/drive/folders/1WvjCauCu7xL9egaBx-h5dPHDvtfHm4zJ)
-- [Click here to watch my Thumbnails](https://drive.google.com/drive/folders/1qa-52swtURHW_VTQ7ZjSEt3gQCnWWRRV)
+---
 
+### 📂 Portfolio & Contact
+- 🎥 **Videos:** [Click here to watch](https://drive.google.com/drive/folders/1WvjCauCu7xL9egs8x-h5dPHDvtFHm4Sj)
+- 🎨 **Thumbnails:** [Click here to watch](https://drive.google.com/drive/folders/1qa-S2swTURMh_VTQ7ZJ5Et3gQCmWWRAV)
+- 📱 **Instagram:** [Contact me here](https://instagram.com/page.abdulahad)
